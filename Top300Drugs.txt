@@ -12,7 +12,7 @@ Hydrochlorothiazide
 Sertraline
 Simvastatin
 Montelukast
-Acetaminophen;
+Acetaminophen
 Hydrocodone
 Pantoprazole
 Furosemide
@@ -22,10 +22,10 @@ Fluoxetine
 Rosuvastatin
 Bupropion
 Amoxicillin
-Dextroamphetamine;
 Dextroamphetamine
-Saccharate;
-Amphetamine;
+Dextroamphetamine
+Saccharate
+Amphetamine
 Amphetamine
 Aspartate
 Trazodone
@@ -45,10 +45,10 @@ Aspirin
 Atenolol
 Venlafaxine
 Alprazolam
-Ethinyl Estradiol;
+Ethinyl Estradiol
 Norethindrone
 Allopurinol
-Hydrochlorothiazide;
+Hydrochlorothiazide
 Lisinopril
 Cyclobenzaprine
 Clonazepam
@@ -62,14 +62,13 @@ Ranitidine
 Glipizide
 Ergocalciferol
 Quetiapine
-Budesonide;
+Budesonide
 Formoterol
 Estradiol
-Acetaminophen;
+Acetaminophen
 Oxycodone
 Ondansetron
-Naproxen
-
+Naproxen
 Glimepiride
 Spironolactone
 Clonidine
@@ -78,11 +77,11 @@ Loratadine
 Cetirizine
 Topiramate
 Lorazepam
-Ethinyl Estradiol;
+Ethinyl Estradiol
 Norgestimate
 Lamotrigine
 Diltiazem
-Hydrochlorothiazide;
+Hydrochlorothiazide
 Losartan
 Diclofenac
 Hydroxyzine
@@ -90,7 +89,7 @@ Buspirone
 Latanoprost
 Paroxetine
 Lisdexamfetamine
-Fluticasone;
+Fluticasone
 Salmeterol
 Pregabalin
 Propranolol
@@ -104,7 +103,7 @@ Folic Acid
 Doxycycline
 Rivaroxaban
 Tizanidine
-Amoxicillin;
+Amoxicillin
 Clavulanate
 Amitriptyline
 Lovastatin
@@ -112,7 +111,7 @@ Alendronate
 Levetiracetam
 Sumatriptan
 Hydralazine
-Sulfamethoxazole;
+Sulfamethoxazole
 Trimethoprim
 Aripiprazole
 Celecoxib
@@ -122,14 +121,14 @@ Benzonatate
 Mirtazapine
 Triamcinolone
 Ezetimibe
-Fluticasone;
+Fluticasone
 Vilanterol
 Valacyclovir
 Methotrexate
 Oxybutynin
 Ciprofloxacin
 Valproate
-Triamterene;
+Triamterene
 Hydrochlorothiazide
 Thyroid
 Diazepam
@@ -139,12 +138,12 @@ Donepezil
 Insulin Detemir
 Hydroxychloroquine
 Isosorbide
-Ethinyl Estradiol;
+Ethinyl Estradiol
 Levonorgestrel
 Baclofen
 Testosterone
 Esomeprazole
-Desogestrel; Ethinyl
+Desogestrel Ethinyl
 Estradiol
 Oseltamivir
 Benazepril
@@ -165,16 +164,16 @@ Ropinirole
 Acetaminophen
 Empagliflozin
 Hydrocortisone
-Drospirenone; Ethinyl
+Drospirenone Ethinyl
 Estradiol
 Risperidone
 Meclizine
-Albuterol; Ipratropium
+Albuterol Ipratropium
 Adalimumab
 Nortriptyline
 Valsartan
 Cyanocobalamin
-Etonogestrel; Ethinyl
+Etonogestrel Ethinyl
 Estradiol
 Acyclovir
 Phentermine
@@ -192,10 +191,10 @@ Memantine
 Prazosin
 Ketoconazole
 Rizatriptan
-Acetaminophen;
+Acetaminophen
 Codeine
 Promethazine
-Metformin; Sitagliptin
+Metformin Sitagliptin
 Anastrozole
 Desvenlafaxine
 Ramipril
@@ -209,7 +208,7 @@ Olanzapine
 Sucralfate
 Docusate
 Progesterone
-Mirabegron
+Mirabegron
 Mupirocin
 Nebivolol
 Nitrofurantoin
@@ -219,25 +218,26 @@ Cyclosporine
 Sildenafil
 Carbamazepine
 Labetalol
-Calcium;
+Calcium
 Cholecalciferol
 Lansoprazole
 Budesonide
 Colchicine
 Terazosin
-Umeclidinium;
+Umeclidinium
 Vilanterol
 Lithium
 Digoxin
-Dorzolamide; Timolol
+Dorzolamide
+Timolol
 Melatonin
-Insulin Human;
+Insulin Human
 Insulin Isophane
 Human
 Doxazosin
 Ranolazine
 Gemfibrozil
-Amlodipine;
+Amlodipine
 Benazepril
 Temazepam
 Flecainide
@@ -249,12 +249,13 @@ Lurasidone
 Benztropine
 Nystatin
 Eszopiclone
-Sacubitril; Valsartan
+Sacubitril
+Valsartan
 Calcium Citrate
 Sodium
 Torsemide
-Butalbital;
-Acetaminophen;
+Butalbital
+Acetaminophen
 Caffeine
 Mesalamine
 Liothyronine
@@ -264,11 +265,12 @@ Erythromycin
 Doxepin
 Semaglutide
 Hydromorphone
-Penicillin V
-Valsartan;
+Penicillin
+Valsartan
 Hydrochlorothiazide
 Beclomethasone
-Brimonidine; Timolol
+Brimonidine
+Timolol
 Bumetanide
 Letrozole
 Linagliptin
@@ -280,14 +282,14 @@ Polyethylene Glycol
 Umeclidinium
 Bisoprolol
 Calcitriol
-Varenicline
+Varenicline
 Epinephrine
 Estrogens,
 Conjugated
 Glyburide
 Guaifenesin
 Magnesium Acetate
-Ethinyl Estradiol;
+Ethinyl Estradiol
 Norgestrel
 Sotalol
 Bimatoprost
@@ -303,46 +305,45 @@ Atomoxetine
 Olopatadine
 Telmisartan
 Phenytoin
-Buprenorphine;
+Buprenorphine
 Naloxone
 Raloxifene
-Tobramycin;
+Tobramycin
 Dexamethasone
 Naltrexone
-Polymyxin B;
+Polymyxin B
 Trimethoprim
 Terbinafine
 Fentanyl
 Diphenhydramine
-Bisoprolol;
+Bisoprolol
 Hydrochlorothiazide
-Pancrelipase Lipase;
+Pancrelipase Lipase
 Pancrelipase
-Protease;
+Protease
 Pancrelipase
 Amylase
 Zonisamide
 Fexofenadine
 Erenumab
 Linaclotide
-Brompheniramine;
-Dextromethorphan;
+Brompheniramine
+Dextromethorphan
 Pseudoephedrine
 Omega-3-acid Ethyl
 Esters
 Dimethyl
 Tadalafil
 Canagliflozin
-Emtricitabine;
+Emtricitabine
 Tenofovir Disoproxil
 Tolterodine
 Etanercept
 Quinapril
-Senna; Docusate
+Senna
+Docusate
 Betamethasone
 Solifenacin
-Insulin, Regular,
-Human
+Insulin
 Chlorhexidine
 Fluocinonide
-
